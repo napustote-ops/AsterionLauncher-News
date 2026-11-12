@@ -1,0 +1,27 @@
+
+{
+  "version": 1,
+  "news": [
+    {
+      "id": 3,
+      "category": "РАЗРАБОТКА",
+      "title": "Создание AsterionLauncher",
+      "description": "Разрабатываем собственный лаунчер с автоматической установкой и обновлением клиента.",
+      "url": "https://t.me/asterionclient"
+    },
+    {
+      "id": 2,
+      "category": "В РАЗРАБОТКЕ",
+      "title": "Галактика AsterionCraft",
+      "description": "Подготавливаем игровые системы, фракции и уникальные возможности.",
+      "url": "https://t.me/asterionclient"
+    },
+    {
+      "id": 1,
+      "category": "СООБЩЕСТВО",
+      "title": "Наш Telegram-канал",
+      "description": "Новости, подробные обновления и демонстрации разработки режима.",
+      "url": "https://t.me/asterionclient"
+    }
+  ]
+}
